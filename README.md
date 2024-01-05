@@ -17,7 +17,7 @@
 
 <div align="center">
 	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
-		<img src="src/screenshots/avatar.jpg" alt="Logo" width="80" height="80"/>
+<!-- 		<img src="src/screenshots/avatar.jpg" alt="Logo" width="80" height="80"/> -->
 	</a>
 	<h3 align="center">Ronny Kutter (hightecular95908)'s Personal Portfolio</h3>
 	<p align="center">
